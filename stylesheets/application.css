@@ -79,6 +79,18 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {
         font-weight: bold;
 }
 
+.wiki p {
+        margin-left:1em;
+}
+
+.wiki h2 {
+        border-bottom:1px solid #cccccc;
+}
+
+.wiki h3,.wiki h4,.wiki h5 {
+        margin-left:0.5em;
+}
+
 p.breadcrumb {
 	background-color: #F5F5F5;
 	border-bottom: 1px solid #EEE;
@@ -267,3 +279,4 @@ div.issue > table td {
 .journal > h4 {
 	border-bottom: 1px solid #E1E9F2;
 }
+
