@@ -48,8 +48,7 @@ a:link, a:hover, a:active { color: #0F65BC; }
 }
 
 #content > .contextual {
-	padding: 5px 5px 5px 5px;
-	margin-top: -5px;
+	padding: 0em 0em 1em 1em;
 }
 
 /* Headers */
@@ -89,6 +88,10 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {
 
 .wiki h3,.wiki h4,.wiki h5 {
         margin-left:0.5em;
+}
+
+.wiki ul, .wiki ol {
+        -webkit-padding-start: 2em;
 }
 
 p.breadcrumb {
@@ -247,7 +250,7 @@ input#issue_subject { font-size: 200%; width: 90%; }
         font-size: 11px;
 }
 
-hr { background:#eee none repeat scroll 0% 0%; }
+hr { background:#444 none repeat scroll 0% 0%; }
 
 #login-form table {
 	background: #FFF url(../images/login-back.png) repeat-x 0px 0px;
