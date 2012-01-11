@@ -101,6 +101,7 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {
 
 #content .wiki img {
 	max-width: 98%;
+	max-height: 480px;
 }
 
 p.breadcrumb {
