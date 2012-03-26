@@ -20,3 +20,16 @@ mjames@gmail.com
 
 Any other questions about this icon set please
 contact mjames@gmail.com
+
+========================
+pie_chart_blue.png
+
+_________________________________________
+Webdesigner Depot
+http://www.iconfinder.com/icondetails/10487/16/analytics_blue_chart_pie_statistics_icon
+http://www.webdesignerdepot.com/
+_________________________________________
+
+Free for commercial use (Include link to authors website).
+
+
