@@ -293,3 +293,6 @@ div.issue > table td {
 	border-bottom: 1px solid #E1E9F2;
 }
 
+blockquote { font-style: italic; border-left: 3px solid #e0e0e0; padding-left: 0.6em; margin-left: 2.4em; margin-top: 0px; margin-bottom: 0px;}
+blockquote blockquote { margin-left: 0; margin-top: 0px; margin-bottom: 0px; }
+blockquote p { margin-top: 0px; margin-bottom: 0px; }
